@@ -12,4 +12,4 @@ A responsive portfolio that adapts to mobile, tablet and desktop screens.
 - Respects reduced-motion and system theme settings
 
 ## Run locally
-Open `task2-responsive-portfolio.html` in your browser.
+Open `Arigela_Bilwanth_Venkat_Portfolio (1).html` in your browser.
